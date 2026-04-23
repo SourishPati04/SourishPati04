@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**SourishPati04/SourishPati04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sourish, a final-year CSE student from India, focused on Java backend development and DSA.
 
-Here are some ideas to get you started:
+Final-year CSE student passionate about coding and backend development.  
+I work mainly with Java and enjoy solving DSA problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring building real-world projects .
+
+Always learning, always building 🚀
+My main tech stack is Java, SQL, python. My favorite platform is VS Studio, IntelliJ. 
+
+Fun Facts :
+  * I like reading books.
+  * In the evening I like to do some workout and go to a walk.
+  * I prefer tea over coffee. 
